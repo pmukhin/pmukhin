@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**pmukhin/pmukhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rust](https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br>
 
-Here are some ideas to get you started:
+|   |
+|:-:|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmukhin&theme=tokyonight) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|   |   |
+|:-:|:-:|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pmukhin&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pmukhin&theme=tokyonight)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pmukhin&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pmukhin&theme=tokyonight)|
