@@ -1,6 +1,6 @@
 
-![Rust](https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%2300599C.svg?style=for-the-badge&logo=scala%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
 
